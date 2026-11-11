@@ -17,3 +17,5 @@ id_ed25519
 
 # Credentials
 .env
+filename_or_folder/
+.terraform/

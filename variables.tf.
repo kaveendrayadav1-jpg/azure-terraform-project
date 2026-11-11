@@ -1,0 +1,9 @@
+variable "admin_source_ip" {
+  description = "Your public IP address with /32 for SSH access"
+  type        = string
+}
+
+variable "postgres_server_name" {
+  description = "Globally unique PostgreSQL server name"
+  type        = string
+}
